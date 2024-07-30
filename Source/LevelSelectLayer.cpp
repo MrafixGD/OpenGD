@@ -104,7 +104,8 @@ bool LevelSelectLayer::init(int page)
 		{ "Geometrical Dominator", "Robtop", 19 },
 		{ "Deadlocked", "Robtop", 20 },
 		{ "Fingerdash", "Robtop", 21 },
-		{ "Performance Test", "OpenGD", 22 }
+		{ "Dash", "RobTop", 22 }, 
+	        { "Explorers", "RobTop", 23 }
 	});
 	
 	//TODO: add getters on level page because they are actually owning the stuff
